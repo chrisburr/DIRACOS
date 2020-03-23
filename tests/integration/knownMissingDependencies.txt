@@ -54,3 +54,4 @@ libXft.so.2
 libXrender.so.1
 libXxf86vm.so.1
 libz-a147dcb0.so.1.2.3
+libz-eb09ad1d.so.1.2.3
